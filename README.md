@@ -3,4 +3,5 @@
 i not love git
 i study Netology
 i have dog
-i not love cat
+i love my dog
+
